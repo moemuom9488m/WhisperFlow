@@ -8,10 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
-
-#v1.0.0
-
-[English Version](./README_EN.md) | [中文版本](./README.md)
+[中文版本](./README.md)
 
 ## 📌 Project Overview
 
