@@ -9,9 +9,7 @@
 
 ---
 
-#v1.0.0
-
-[English Version](./README_EN.md) | [中文版本](./README.md)
+[English Version](./README_EN.md) 
 
 ## 📌 專案簡介 (Chinese)
 
