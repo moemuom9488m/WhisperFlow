@@ -1,3 +1,3 @@
 # 在此處貼上 YouTube 影片連結，每行一個
 # 腳本會自動忽略以 # 開頭的行
-https://youtu.be/dQw4w9WgXcQ?si=u_2fOLaHDGkC-UBk
+https://www.youtube.com/watch?v=QLiKmca4kzI
