@@ -1,0 +1,33 @@
+# WhisperFlow .gitignore
+
+# 虛擬環境
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# 模型快取 (體積巨大，不可上傳)
+model_cache/
+
+# 任務輸出與轉換內容 (含個人隱私)
+projects/
+local_videos/
+input.mp3
+output.txt
+output.srt
+translated_en.txt
+source.url
+source.txt
+
+# Jupyter Notebook 暫存
+.ipynb_checkpoints/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地設定檔
+.env
+.vscode/

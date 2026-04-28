@@ -1,0 +1,9 @@
+faster-whisper
+yt-dlp
+huggingface-hub
+tqdm
+typing-extensions
+
+# Notes:
+# - ffmpeg is required on the system (not a pip package). Install separately for your OS.
+# - If you prefer pinned versions, replace package names with e.g. faster-whisper==0.4.0
